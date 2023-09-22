@@ -19,3 +19,18 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
+https://gist.github.com/gilbertalgordo
+
+[![pages-build-deployment](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/pages/pages-build-deployment)
+
+[![PSScriptAnalyzer](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/powershell.yml/badge.svg)](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/powershell.yml)
+
+[![OSSAR](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/ossar.yml/badge.svg)](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/ossar.yml)
+
+[![Microsoft Defender For Devops](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/defender-for-devops.yml/badge.svg)](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/defender-for-devops.yml)
+
+[![CodeQL](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/codeql.yml/badge.svg)](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/codeql.yml)
+
+[![CodeQL](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/github-code-scanning/codeql)
+
+[![Build and Deploy to GKE](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/google.yml/badge.svg)](https://github.com/gilbertalgordo/Android-SimulatorDemo/actions/workflows/google.yml)
